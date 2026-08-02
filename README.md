@@ -210,3 +210,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 > ⭐ If this project helped you, consider starring the repo!
+
+---
+
+**Note:** If you encounter any issues with the model loading, make sure you have scikit-learn >= 1.0 installed.
