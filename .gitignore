@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+models/
+
+# Data files
+*.csv
+*.json
+!requirements.txt
+data/
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+config.ini
